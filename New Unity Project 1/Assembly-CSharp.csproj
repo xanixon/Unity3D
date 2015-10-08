@@ -45,6 +45,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Death_condition.cs" />
      <Compile Include="Assets\Respawner.cs" />
      <Compile Include="Assets\Scripts\Barrier_Controll.cs" />
      <Compile Include="Assets\Scripts\Fog_1_Awake.cs" />

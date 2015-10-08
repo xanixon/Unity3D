@@ -1,23 +1,15 @@
 Base path: C:/Program Files/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-6808
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-4820
 Cmd: getPlatforms
 Cmd: compileSnippet
-  api=4 type=0 insize=751 outsize=3776 kw=SHADOWS_DEPTH _ALPHATEST_ON pd= ok=1
+  api=4 type=0 insize=526 outsize=2224 kw= pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=751 outsize=835 kw=SHADOWS_DEPTH _ALPHATEST_ON pd= ok=1
+  api=4 type=1 insize=526 outsize=1688 kw= pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=982 outsize=4451 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 _ALPHATEST_ON pd= ok=1
+  api=4 type=0 insize=977 outsize=3809 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_ON FOG_EXP2 pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=982 outsize=11536 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 _ALPHATEST_ON pd= ok=1
+  api=4 type=1 insize=977 outsize=11040 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_ON FOG_EXP2 pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON pd= ok=1
+  api=4 type=0 insize=977 outsize=4126 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_ON FOG_EXP2 pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=982 outsize=10796 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _ALPHATEST_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=938 outsize=5718 kw=DIRECTIONAL SHADOWS_OFF _ALPHATEST_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=982 outsize=4134 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 _ALPHATEST_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=982 outsize=11227 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 _ALPHATEST_ON pd= ok=1
+  api=4 type=1 insize=977 outsize=11349 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_ON FOG_EXP2 pd= ok=1
