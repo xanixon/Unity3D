@@ -45,14 +45,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Death_condition.cs" />
-     <Compile Include="Assets\Respawner.cs" />
+     <Compile Include="Assets\CameraRotation.cs" />
      <Compile Include="Assets\Scripts\Barrier_Controll.cs" />
-     <Compile Include="Assets\Scripts\Fog_1_Awake.cs" />
-     <Compile Include="Assets\Scripts\Fog_2_controll.cs" />
-     <Compile Include="Assets\Scripts\Fog_3_controll.cs" />
-     <Compile Include="Assets\Scripts\Fog_4_controll.cs" />
-     <Compile Include="Assets\Scripts\Respawn_Controll.cs" />
+     <Compile Include="Assets\Scripts\Death_condition.cs" />
+     <Compile Include="Assets\Scripts\FogBehaviour.cs" />
+     <Compile Include="Assets\Scripts\Respawner.cs" />
      <Compile Include="Assets\Scripts\RotationOnMove.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
